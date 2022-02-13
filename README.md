@@ -13,7 +13,7 @@
 
 - 👨‍💻 All of my projects are available at &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[https://github.com/Ravichandran-05](https://github.com/Ravichandran-05)
 
-- 🧑‍💼 Having good leadership skills and working well as a team player. 
+- 🧑‍💼 Having good leadership skills and working well as a team &nbsp;&nbsp;&nbsp;&nbsp;player. 
 
 - 🤔 I’m currently open for: A new job opportunity
 
