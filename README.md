@@ -5,7 +5,7 @@
 <br>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravichandran-05&label=Profile%20views&color=0e75b6&style=flat" alt="ravichandran-05" /> </p>
 <br>
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" width=400 height=200/></p>
+<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" width=400 height=400/></p>
 
 - 🌱 I’m currently learning **Cloud and devops**
 
