@@ -3,19 +3,21 @@
 
 <br>
 
-<p align="right"> <h3>Profile Views :-</h3> <img src="https://komarev.com/ghpvc/?username=adam-pw&label=Profile%20views&color=0e75b6&style=flat"
-    alt="adam-pw" /> 
-  </p>
+
 
 <br>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravichandran-05&label=Profile%20views&color=0e75b6&style=flat" alt="ravichandran-05" /> </p>
 
-- 🌱 I’m currently learning **AWS**
+- 🌱 I’m currently learning **Cloud and devops**
 
-- 👨‍💻 All of my projects are available at [https://bit.ly/ravi-b](https://bit.ly/ravi-b)
+- 🌐 Know about me [https://bit.ly/ravi-b](https://bit.ly/ravi-b)
 
-- 💬 Ask me about **MERN stack**
+- 👨‍💻 All of my projects are available at [https://github.com/Ravichandran-05](https://github.com/Ravichandran-05)
+
+- 💬 Ask me about anything 
+
+- 🤔 I’m currently open for: A new job opportunity
 
 - 📫 How to reach me **ravichandran-b@outlook.com**
 
