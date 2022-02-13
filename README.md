@@ -16,7 +16,7 @@
 
 - 🧑‍💼 Having good leadership skills and working well as a team &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;player. 
 
-- 🤔 I’m currently open for: A new job opportunity
+- 🤔 I’m currently open for : **A new job opportunity**
 
 - 📫 How to reach me **ravichandran-b@outlook.com**
 
