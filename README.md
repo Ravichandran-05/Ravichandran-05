@@ -9,15 +9,17 @@
 
 <br>
 
-<p><img align="right" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif" alt="adam-pw" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=ravichandran-05&label=Profile%20views&color=0e75b6&style=flat" alt="ravichandran-05" /> </p>
 
+- 🌱 I’m currently learning **AWS**
 
-- 🌱 I’m currently learning Web Development and other programming languages
+- 👨‍💻 All of my projects are available at [https://bit.ly/ravi-b](https://bit.ly/ravi-b)
 
-- 📫 How to reach me **adampithewan@gmail.com**
+- 💬 Ask me about **MERN stack**
 
-- ⚡ Fun fact :- Food and Music🎵 are the reasons to live.
+- 📫 How to reach me **ravichandran-b@outlook.com**
 
+- ⚡ Fun fact **Football,Cycling**
 <br>
 
 <h3 align="left">Connect with me:</h3>
