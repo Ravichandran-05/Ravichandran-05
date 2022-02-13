@@ -1,5 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ravichandran B</h1>
-<h3 align="center">Student at Kongu Engineering College.</h3>
+<h3 align="center">A passionate full stack web developer | Student </h3>
+
 
 <br>
 
