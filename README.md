@@ -11,15 +11,15 @@
 
 - 🌐 Know about me [https://bit.ly/ravi-b](https://bit.ly/ravi-b)
 
-- 👨‍💻 All of my projects are available at &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[https://github.com/Ravichandran-05](https://github.com/Ravichandran-05)
+- 👨‍💻 All of my projects are available at &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[https://github.com/Ravichandran-05](https://github.com/Ravichandran-05)
 
-- 💬 Ask me about anything 
+- 🧑‍💼 Having good leadership skills and working well as a team player. 
 
 - 🤔 I’m currently open for: A new job opportunity
 
 - 📫 How to reach me **ravichandran-b@outlook.com**
 
-- ⚡ Fun fact **Football,Cycling**
+- ⚡ Fun fact **Football ⚽,Cycling 🚴‍♂️,Nature 🌷🌳**
 <br>
 
 <h3 align="left">Connect with me:</h3>
