@@ -12,13 +12,15 @@
 
 - 🌐 Know about me [https://bit.ly/ravi-b](https://bit.ly/ravi-b)
 
+- 💬 Feel free to ask me anything at [https://ravi-blogs.web.app/](https://ravi-blogs.web.app/)
+
 - 👨‍💻 All of my projects are available at &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;[https://github.com/Ravichandran-05](https://github.com/Ravichandran-05)
 
 - 🧑‍💼 Having good leadership skills and working well as a team &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;player. 
 
 - 🤔 I’m currently open for : **A new job opportunity**
 
-- 📫 How to reach me **ravichandran-b@outlook.com**
+- 📫 How to reach me **ravichandranb32@gmail.com**
 
 - ⚡ Fun fact -- **Football ⚽,Cycling 🚴‍♂️,Nature 🌷🌳**
 <br>
