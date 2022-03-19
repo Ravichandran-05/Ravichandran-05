@@ -4,7 +4,6 @@
 
 
 <br>
-<p align="left"> <img src="https://komarev.com/ghpvc/?username=ravichandran-05&color=dc143c" alt="ravichandran-05" /> </p>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=ravichandran-05&label=Profile%20views&color=0e75b6&style=flat" alt="ravichandran-05" /> </p>
 <br>
